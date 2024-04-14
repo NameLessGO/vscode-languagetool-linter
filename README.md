@@ -28,7 +28,7 @@ extension.
 
 The defaults are probably not going to work for you, but they are there to make
 sure using
-[LanguageTool's Public API](http://wiki.languagetool.org/public-http-api) is
+[LanguageTool's Public API](https://dev.languagetool.org/public-http-api) is
 done by choice. See
 [this issue](https://github.com/wysiib/linter-languagetool/issues/33) on the
 [Atom LanguageTool Linter](https://atom.io/packages/linter-languagetool) for an
